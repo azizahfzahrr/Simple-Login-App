@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="username">username</string>
+    <string name="register">register</string>
+    <string name="toleransi_jumlah_kesalahan">toleransi jumlah kesalahan</string>
+    <string name="password">password</string>
+    <string name="username2">username</string>
+    <string name="password2">password</string>
+    <string name="nim">nim</string>
+    <string name="umur">umur</string>
+    <string name="login">Login</string>
+</resources>
